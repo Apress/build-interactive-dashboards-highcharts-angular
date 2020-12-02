@@ -1,9 +1,9 @@
 # Apress Source Code
 
-This repository accompanies [*Build Interactive Dashboards Using Highcharts with Angular*](https://rd.springer.com/video/10.1007/%isbn%) by Sourabh Mishra (Apress, 2020).
+This repository accompanies [*Build Interactive Dashboards Using Highcharts with Angular*](https://rd.springer.com/video/10.1007/978-1-4842-6694-6) by Sourabh Mishra (Apress, 2020).
 
 [comment]: #cover
-![Cover image](%isbn%.jpg)
+![Cover image](9781484266946.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
